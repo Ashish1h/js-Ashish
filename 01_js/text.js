@@ -15,4 +15,3 @@ don't use var
 */
 
 console.table([accountId, accountEmail, accountPassword, accountCity,])
-
